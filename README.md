@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![alsrbile](https://leetcard.alsrbile.cool/lapor?ext=heatmap)
+
 
 <!--
 **Alsrbile/Alsrbile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
