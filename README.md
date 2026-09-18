@@ -12,6 +12,7 @@
 
 **엘리스 LG전자 AI Reskilling 조교**
 
+**현대자동차 Powertrain 생산기술**
 
 <!--
 **Alsrbile/Alsrbile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
